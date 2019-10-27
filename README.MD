@@ -1,3 +1,20 @@
+# Terminal Commands
+
+* pwd - show's your present working directory(where you are in your file tree)
+
+* ls - lists available scripts(where you can navigate to in your file tree)
+
+* cd - changes directory to one you select
+
+* mkdir - creates a directory(folder)
+
+* touch - creates a file
+
+* rm - removes a file
+
+* rm -rf - removes a folder and everything in it. Be VERY sure of what is being deleted before running this command
+
+
 # Git
 
 Git is the version control tools that we can use in our command line to interact with our Github.

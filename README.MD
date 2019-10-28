@@ -27,6 +27,10 @@ First you need to copy the url for the github repo that you wish to clone down t
 git clone "url for github repo"
 ```
 
+## Git Init
+
+`git init` is the command that will initialize your project to be tracked by git.
+
 ## Git Status
 
 `git status` is the command you can run to check what stage of the process you are on to push your code to github.

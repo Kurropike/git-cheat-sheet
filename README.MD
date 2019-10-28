@@ -10,9 +10,9 @@
 
 * touch - creates a file
 
-* rm - removes a file
+* rm <filename> - removes a file
 
-* rm -rf - removes a folder and everything in it. Be VERY sure of what is being deleted before running this command
+* rm -rf <foldername> - removes a folder and everything in it. Be VERY sure of what is being deleted before running this command
 
 
 # Git
